@@ -88,7 +88,7 @@
 		<repository>
 			<id>anypoint-exchange-v2</id>
 			<name>Anypoint Exchange</name>
-			<url>https://maven.anypoint.mulesoft.com/api/v2/maven</url>
+			<url>https://maven.anypoint.mulesoft.com/api/v2/maven/ce235d46-115c-497c-b0e2-474afd80f5e9</url>
 			<layout>default</layout>
 		</repository>
 		<repository>
